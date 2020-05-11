@@ -1,0 +1,6 @@
+size: 178
+age:9
+speed:ghf
+breed:amurr
+skinColour:black
+isHungry:1
