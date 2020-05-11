@@ -1,0 +1,6 @@
+pressure|10
+temperature|30
+colour|black
+canMakeCappuccino|false
+price|6700
+numberOfCups|2
